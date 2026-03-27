@@ -1,6 +1,6 @@
 {
   "skeleton": {
-    "hash": "tznNhQ6SdFg",
+    "hash": "+dlX9lIdvpk",
     "spine": "4.1.24",
     "y": -1080,
     "width": 2560,
@@ -464,7 +464,7 @@
         },
         "hogItem1": {
           "hogItem_ps": {
-            "name": "obj-lvl-142/lvl_142_boots",
+            "name": "obj-lvl-142/lvl_142_booties",
             "color": "ebe9d8ff",
             "x": 828.62,
             "y": -564.13,
@@ -476,7 +476,7 @@
         },
         "hogItem2": {
           "hogItem_ps": {
-            "name": "obj-lvl-142/lvl_142_brush",
+            "name": "obj-lvl-142/lvl_142_shoeBrush",
             "type": "mesh",
             "color": "e5e5e5ff",
             "uvs": [
@@ -858,7 +858,7 @@
         },
         "decorItem10": {
           "additional_item_ps": {
-            "name": "obj-lvl-142/lvl_142_brush",
+            "name": "obj-lvl-142/lvl_142_shoeBrush",
             "type": "mesh",
             "color": "e5e5e5ff",
             "uvs": [
@@ -933,7 +933,7 @@
         },
         "decorItem11": {
           "additional_item_ps": {
-            "name": "obj-lvl-142/lvl_142_boots",
+            "name": "obj-lvl-142/lvl_142_booties",
             "color": "ebe9d8ff",
             "x": 828.62,
             "y": -564.13,
@@ -1584,7 +1584,7 @@
         },
         "hogItem1": {
           "hogItem_ps": {
-            "name": "obj-lvl-142/lvl_142_boots",
+            "name": "obj-lvl-142/lvl_142_booties",
             "color": "ebe9d8ff",
             "x": 828.62,
             "y": -564.13,
@@ -1596,7 +1596,7 @@
         },
         "hogItem2": {
           "hogItem_ps": {
-            "name": "obj-lvl-142/lvl_142_brush",
+            "name": "obj-lvl-142/lvl_142_shoeBrush",
             "type": "mesh",
             "color": "e5e5e5ff",
             "uvs": [
@@ -1978,7 +1978,7 @@
         },
         "decorItem10": {
           "additional_item_ps": {
-            "name": "obj-lvl-142/lvl_142_brush",
+            "name": "obj-lvl-142/lvl_142_shoeBrush",
             "type": "mesh",
             "color": "e5e5e5ff",
             "uvs": [
@@ -2053,7 +2053,7 @@
         },
         "decorItem11": {
           "additional_item_ps": {
-            "name": "obj-lvl-142/lvl_142_boots",
+            "name": "obj-lvl-142/lvl_142_booties",
             "color": "ebe9d8ff",
             "x": 828.62,
             "y": -564.13,
@@ -2538,7 +2538,7 @@
         },
         "decorItem10": {
           "additional_item_ps": {
-            "name": "obj-lvl-142/lvl_142_brush",
+            "name": "obj-lvl-142/lvl_142_shoeBrush",
             "type": "mesh",
             "color": "e5e5e5ff",
             "uvs": [
@@ -2613,7 +2613,7 @@
         },
         "decorItem11": {
           "additional_item_ps": {
-            "name": "obj-lvl-142/lvl_142_boots",
+            "name": "obj-lvl-142/lvl_142_booties",
             "color": "ebe9d8ff",
             "x": 828.62,
             "y": -564.13,

@@ -8,13 +8,10 @@ obj-lvl-142/lvl_142_bonnet
 bounds:874,299,207,211
 offsets:25,134,232,345
 rotate:180
-obj-lvl-142/lvl_142_boots
+obj-lvl-142/lvl_142_booties
 bounds:1291,140,159,116
 offsets:0,1,159,120
 rotate:90
-obj-lvl-142/lvl_142_brush
-bounds:1097,2,200,112
-offsets:0,27,200,139
 obj-lvl-142/lvl_142_camera
 bounds:1409,141,139,91
 offsets:1,1,142,93
@@ -67,6 +64,9 @@ bounds:660,447,102,63
 offsets:0,1,102,64
 obj-lvl-142/lvl_142_remotecontrol
 bounds:1134,135,155,155
+obj-lvl-142/lvl_142_shoeBrush
+bounds:1097,2,200,112
+offsets:0,27,200,139
 obj-lvl-142/lvl_142_tie
 bounds:2,85,122,382
 offsets:0,0,122,461

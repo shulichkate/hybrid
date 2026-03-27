@@ -1,6 +1,6 @@
 {
   "skeleton": {
-    "hash": "RIa7J06ZnvU",
+    "hash": "gq/gqIfuLW0",
     "spine": "4.1.24",
     "y": -1080,
     "width": 2560,
@@ -68,11 +68,6 @@
     },
     {
       "name": "hogItem9",
-      "bone": "hogItems",
-      "attachment": "hogItem_ps"
-    },
-    {
-      "name": "hogItem21",
       "bone": "hogItems",
       "attachment": "hogItem_ps"
     },
@@ -617,17 +612,6 @@
             "width": 176,
             "height": 202
           }
-        },
-        "hogItem21": {
-          "hogItem_ps": {
-            "name": "obj-lvl-125/lvl_125_dog",
-            "x": 1533.27,
-            "y": -865.16,
-            "scaleX": 0.7999999999999999,
-            "scaleY": 0.7999999999999999,
-            "width": 101,
-            "height": 135
-          }
         }
       }
     },
@@ -1051,17 +1035,6 @@
             ],
             "width": 176,
             "height": 202
-          }
-        },
-        "hogItem21": {
-          "hogItem_ps": {
-            "name": "obj-lvl-125/lvl_125_dog",
-            "x": 1443.47,
-            "y": -730.99,
-            "scaleX": 0.7999999999999999,
-            "scaleY": 0.7999999999999999,
-            "width": 101,
-            "height": 135
           }
         }
       }
@@ -1505,17 +1478,6 @@
             "width": 176,
             "height": 202
           }
-        },
-        "hogItem21": {
-          "hogItem_ps": {
-            "name": "obj-lvl-125/lvl_125_dog",
-            "x": 1533.27,
-            "y": -865.16,
-            "scaleX": 0.7999999999999999,
-            "scaleY": 0.7999999999999999,
-            "width": 101,
-            "height": 135
-          }
         }
       }
     },
@@ -1940,17 +1902,6 @@
             "width": 176,
             "height": 202
           }
-        },
-        "hogItem21": {
-          "hogItem_ps": {
-            "name": "obj-lvl-125/lvl_125_dog",
-            "x": 1443.47,
-            "y": -730.99,
-            "scaleX": 0.7999999999999999,
-            "scaleY": 0.7999999999999999,
-            "width": 101,
-            "height": 135
-          }
         }
       }
     },
@@ -2374,17 +2325,6 @@
             ],
             "width": 176,
             "height": 202
-          }
-        },
-        "hogItem21": {
-          "hogItem_ps": {
-            "name": "obj-lvl-125/lvl_125_dog",
-            "x": 1443.47,
-            "y": -730.99,
-            "scaleX": 0.7999999999999999,
-            "scaleY": 0.7999999999999999,
-            "width": 101,
-            "height": 135
           }
         }
       }

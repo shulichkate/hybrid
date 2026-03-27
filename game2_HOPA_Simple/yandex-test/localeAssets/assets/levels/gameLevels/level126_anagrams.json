@@ -1,6 +1,6 @@
 {
   "skeleton": {
-    "hash": "5ie41VVU2ns",
+    "hash": "FuW4S3TdvBI",
     "spine": "4.1.24",
     "y": -1080,
     "width": 2560,
@@ -573,7 +573,7 @@
         },
         "decorItem14": {
           "additional_item_ps": {
-            "name": "obj-lvl-126/lvl_126_pencil\u0441up",
+            "name": "obj-lvl-126/lvl_126_pencilcup",
             "color": "f8f3edff",
             "x": 1503.48,
             "y": -322.79,
@@ -1620,7 +1620,7 @@
         },
         "hogItem1": {
           "hogItem_ps": {
-            "name": "obj-lvl-126/lvl_126_pencil\u0441up",
+            "name": "obj-lvl-126/lvl_126_pencilcup",
             "color": "f8f3edff",
             "x": 1503.48,
             "y": -322.79,
@@ -2387,7 +2387,7 @@
         },
         "decorItem14": {
           "additional_item_ps": {
-            "name": "obj-lvl-126/lvl_126_pencil\u0441up",
+            "name": "obj-lvl-126/lvl_126_pencilcup",
             "color": "f8f3edff",
             "x": 1503.48,
             "y": -322.79,
@@ -3434,7 +3434,7 @@
         },
         "hogItem1": {
           "hogItem_ps": {
-            "name": "obj-lvl-126/lvl_126_pencil\u0441up",
+            "name": "obj-lvl-126/lvl_126_pencilcup",
             "color": "f8f3edff",
             "x": 1503.48,
             "y": -322.79,
@@ -4341,7 +4341,7 @@
         },
         "hogItem1": {
           "hogItem_ps": {
-            "name": "obj-lvl-126/lvl_126_pencil\u0441up",
+            "name": "obj-lvl-126/lvl_126_pencilcup",
             "color": "f8f3edff",
             "x": 1503.48,
             "y": -322.79,

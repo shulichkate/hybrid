@@ -1,6 +1,6 @@
 {
   "skeleton": {
-    "hash": "KWwWv2tt1aA",
+    "hash": "UBGHLBYGKsw",
     "spine": "4.1.24",
     "y": -1080,
     "width": 2561.78,
@@ -434,7 +434,7 @@
         },
         "decorItem11": {
           "additional_item_ps": {
-            "name": "obj-lvl-128/lvl_128_walkie-talkie",
+            "name": "obj-lvl-128/lvl_128_walkieTalkie",
             "type": "mesh",
             "color": "cac7b1ff",
             "uvs": [
@@ -1150,7 +1150,7 @@
         },
         "hogItem2": {
           "hogItem_ps": {
-            "name": "obj-lvl-128/lvl_128_walkie-talkie",
+            "name": "obj-lvl-128/lvl_128_walkieTalkie",
             "type": "mesh",
             "color": "cac7b1ff",
             "uvs": [
@@ -1782,7 +1782,7 @@
         },
         "decorItem11": {
           "additional_item_ps": {
-            "name": "obj-lvl-128/lvl_128_walkie-talkie",
+            "name": "obj-lvl-128/lvl_128_walkieTalkie",
             "type": "mesh",
             "color": "cac7b1ff",
             "uvs": [
@@ -2498,7 +2498,7 @@
         },
         "hogItem2": {
           "hogItem_ps": {
-            "name": "obj-lvl-128/lvl_128_walkie-talkie",
+            "name": "obj-lvl-128/lvl_128_walkieTalkie",
             "type": "mesh",
             "color": "cac7b1ff",
             "uvs": [
@@ -3172,7 +3172,7 @@
         },
         "hogItem2": {
           "hogItem_ps": {
-            "name": "obj-lvl-128/lvl_128_walkie-talkie",
+            "name": "obj-lvl-128/lvl_128_walkieTalkie",
             "type": "mesh",
             "color": "cac7b1ff",
             "uvs": [

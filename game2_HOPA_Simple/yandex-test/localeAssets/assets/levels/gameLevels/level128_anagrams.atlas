@@ -66,7 +66,7 @@ rotate:90
 obj-lvl-128/lvl_128_spring
 bounds:1305,10,190,46
 offsets:0,0,192,47
-obj-lvl-128/lvl_128_walkie-talkie
+obj-lvl-128/lvl_128_walkieTalkie
 bounds:806,358,576,463
 offsets:0,0,576,549
 obj-lvl-128/lvl_128_whistle
