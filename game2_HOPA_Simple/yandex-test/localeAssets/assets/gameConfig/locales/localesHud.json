@@ -1,1490 +1,1118 @@
 {
   "bear": {
-    "en": "bear",
-    "ru": "медведь"
+    "en": "bear"
   },
   "bell": {
-    "en": "bell",
-    "ru": "колокольчик"
+    "en": "bell"
   },
   "bobbin": {
-    "en": "bobbin",
-    "ru": "катушка"
+    "en": "bobbin"
   },
   "bow": {
-    "en": "bow",
-    "ru": "бант"
+    "en": "bow"
   },
   "butterfly": {
-    "en": "butterfly",
-    "ru": "бабочка"
+    "en": "butterfly"
   },
   "cat": {
-    "en": "cat",
-    "ru": "кот"
+    "en": "cat"
   },
   "diary": {
-    "en": "diary",
-    "ru": "дневник"
+    "en": "diary"
   },
   "dog": {
-    "en": "dog",
-    "ru": "собака"
+    "en": "dog"
   },
   "doll": {
-    "en": "doll",
-    "ru": "кукла"
+    "en": "doll"
   },
   "elephant": {
-    "en": "elephant",
-    "ru": "слон"
+    "en": "elephant"
   },
   "glasses": {
-    "en": "glasses",
-    "ru": "очки"
+    "en": "glasses"
   },
   "gloves": {
-    "en": "gloves",
-    "ru": "перчатки"
+    "en": "gloves"
   },
   "leaf": {
-    "en": "leaf",
-    "ru": "лист"
+    "en": "leaf"
   },
   "lemon": {
-    "en": "lemon",
-    "ru": "лимон"
+    "en": "lemon"
   },
   "lion": {
-    "en": "lion",
-    "ru": "лев"
+    "en": "lion"
   },
   "owl": {
-    "en": "owl",
-    "ru": "сова"
+    "en": "owl"
   },
   "postcard": {
-    "en": "postcard",
-    "ru": "открытка"
+    "en": "postcard"
   },
   "rope": {
-    "en": "rope",
-    "ru": "веревка"
+    "en": "rope"
   },
   "scissors": {
-    "en": "scissors",
-    "ru": "ножницы"
+    "en": "scissors"
   },
   "snail": {
-    "en": "snail",
-    "ru": "улитка"
+    "en": "snail"
   },
   "strawberry": {
-    "en": "strawberry",
-    "ru": "клубника"
+    "en": "strawberry"
   },
   "thermometer": {
-    "en": "thermometer",
-    "ru": "термометр"
+    "en": "thermometer"
   },
   "viburnum": {
-    "en": "viburnum",
-    "ru": "калина"
+    "en": "viburnum"
   },
   "whistle": {
-    "en": "whistle",
-    "ru": "свисток"
+    "en": "whistle"
   },
   "yarn": {
-    "en": "yarn",
-    "ru": "пряжа"
+    "en": "yarn"
   },
   "candlestick": {
-    "en": "candlestick",
-    "ru": "подсвечник"
+    "en": "candlestick"
   },
   "pincushion": {
-    "en": "pincushion",
-    "ru": "игольница"
+    "en": "pincushion"
   },
   "rose": {
-    "en": "rose",
-    "ru": "роза"
+    "en": "rose"
   },
   "candle": {
-    "en": "candle",
-    "ru": "свеча"
+    "en": "candle"
   },
   "coffee": {
-    "en": "coffee",
-    "ru": "кофе"
+    "en": "coffee"
   },
   "horse": {
-    "en": "horse",
-    "ru": "лошадь"
+    "en": "horse"
   },
   "hourglass": {
-    "en": "hourglass",
-    "ru": "песочные часы"
+    "en": "hourglass"
   },
   "lollipops": {
-    "en": "lollipops",
-    "ru": "леденцы"
+    "en": "lollipops"
   },
   "metronome": {
-    "en": "metronome",
-    "ru": "метроном"
+    "en": "metronome"
   },
   "microphone": {
-    "en": "microphone",
-    "ru": "микрофон"
+    "en": "microphone"
   },
   "mirror": {
-    "en": "mirror",
-    "ru": "зеркало"
+    "en": "mirror"
   },
   "pencilcup": {
-    "en": "pencil cup",
-    "ru": "пенал"
+    "en": "pencil cup"
   },
   "perfume": {
-    "en": "perfume",
-    "ru": "духи"
+    "en": "perfume"
   },
   "racket": {
-    "en": "racket",
-    "ru": "ракетка"
+    "en": "racket"
   },
   "ship": {
-    "en": "ship",
-    "ru": "корабль"
+    "en": "ship"
   },
   "sponge": {
-    "en": "sponge",
-    "ru": "губка"
+    "en": "sponge"
   },
   "spoon": {
-    "en": "spoon",
-    "ru": "ложка"
+    "en": "spoon"
   },
   "statue": {
-    "en": "statue",
-    "ru": "статуя"
+    "en": "statue"
   },
   "teapot": {
-    "en": "teapot",
-    "ru": "чайник"
+    "en": "teapot"
   },
   "thread": {
-    "en": "thread",
-    "ru": "нитка"
+    "en": "thread"
   },
   "wallet": {
-    "en": "wallet",
-    "ru": "бумажник"
+    "en": "wallet"
   },
   "watch": {
-    "en": "watch",
-    "ru": "часы"
+    "en": "watch"
   },
   "abacus": {
-    "en": "abacus",
-    "ru": "счёты"
+    "en": "abacus"
   },
   "ball": {
-    "en": "ball",
-    "ru": "мяч"
+    "en": "ball"
   },
   "banana": {
-    "en": "banana",
-    "ru": "банан"
+    "en": "banana"
   },
   "bonsai": {
-    "en": "bonsai",
-    "ru": "бонсай"
+    "en": "bonsai"
   },
   "books": {
-    "en": "books",
-    "ru": "книги"
+    "en": "books"
   },
   "clock": {
-    "en": "clock",
-    "ru": "часы"
+    "en": "clock"
   },
   "hamster": {
-    "en": "hamster",
-    "ru": "хомяк"
+    "en": "hamster"
   },
   "hat": {
-    "en": "hat",
-    "ru": "шляпа"
+    "en": "hat"
   },
   "lamp": {
-    "en": "lamp",
-    "ru": "лампа"
+    "en": "lamp"
   },
   "makeupbag": {
-    "en": "makeupbag",
-    "ru": "косметичка"
+    "en": "makeupbag"
   },
   "paper": {
-    "en": "paper",
-    "ru": "бумага"
+    "en": "paper"
   },
   "parrot": {
-    "en": "parrot",
-    "ru": "попугай"
+    "en": "parrot"
   },
   "radio": {
-    "en": "radio",
-    "ru": "радио"
+    "en": "radio"
   },
   "scales": {
-    "en": "scales",
-    "ru": "весы"
+    "en": "scales"
   },
   "slippers": {
-    "en": "slippers",
-    "ru": "тапочки"
+    "en": "slippers"
   },
   "umbrella": {
-    "en": "umbrella",
-    "ru": "зонт"
+    "en": "umbrella"
   },
   "vase": {
-    "en": "vase",
-    "ru": "ваза"
+    "en": "vase"
   },
   "ammeter": {
-    "en": "ammeter",
-    "ru": "амперметр"
+    "en": "ammeter"
   },
   "battery": {
-    "en": "battery",
-    "ru": "батарейка"
+    "en": "battery"
   },
   "bottle": {
-    "en": "bottle",
-    "ru": "бутылка"
+    "en": "bottle"
   },
   "button": {
-    "en": "button",
-    "ru": "пуговица"
+    "en": "button"
   },
   "canopener": {
-    "en": "canopener",
-    "ru": "консервный нож"
+    "en": "canopener"
   },
   "clothespin": {
-    "en": "clothespin",
-    "ru": "прищепка"
+    "en": "clothespin"
   },
   "flashdrive": {
-    "en": "flashdrive",
-    "ru": "флешка"
+    "en": "flashdrive"
   },
   "flashlight": {
-    "en": "flashlight",
-    "ru": "фонарик"
+    "en": "flashlight"
   },
   "gear": {
-    "en": "gear",
-    "ru": "шестеренка"
+    "en": "gear"
   },
   "key": {
-    "en": "key",
-    "ru": "ключ"
+    "en": "key"
   },
   "lighter": {
-    "en": "lighter",
-    "ru": "зажигалка"
+    "en": "lighter"
   },
   "lock": {
-    "en": "lock",
-    "ru": "замок"
+    "en": "lock"
   },
   "magnet": {
-    "en": "magnet",
-    "ru": "магнит"
+    "en": "magnet"
   },
   "matches": {
-    "en": "matches",
-    "ru": "спички"
+    "en": "matches"
   },
   "paint": {
-    "en": "paint",
-    "ru": "краска"
+    "en": "paint"
   },
   "paw": {
-    "en": "paw",
-    "ru": "лапа"
+    "en": "paw"
   },
   "pencil": {
-    "en": "pencil",
-    "ru": "карандаш"
+    "en": "pencil"
   },
   "pliers": {
-    "en": "pliers",
-    "ru": "плоскогубцы"
+    "en": "pliers"
   },
   "sharpener": {
-    "en": "sharpener",
-    "ru": "точилка"
+    "en": "sharpener"
   },
   "spool": {
-    "en": "spool",
-    "ru": "катушка"
+    "en": "spool"
   },
   "spring": {
-    "en": "spring",
-    "ru": "пружина"
+    "en": "spring"
   },
   "walkieTalkie": {
-    "en": "walkie-talkie",
-    "ru": "рация"
+    "en": "walkie-talkie"
   },
   "dividers": {
-    "en": "dividers",
-    "ru": "циркуль"
+    "en": "dividers"
   },
   "flower": {
-    "en": "flower",
-    "ru": "цветок"
+    "en": "flower"
   },
   "heart": {
-    "en": "heart",
-    "ru": "сердце"
+    "en": "heart"
   },
   "mannequin": {
-    "en": "mannequin",
-    "ru": "манекен"
+    "en": "mannequin"
   },
   "napkins": {
-    "en": "napkins",
-    "ru": "салфетки"
+    "en": "napkins"
   },
   "pear": {
-    "en": "pear",
-    "ru": "груша"
+    "en": "pear"
   },
   "shell": {
-    "en": "shell",
-    "ru": "ракушка"
+    "en": "shell"
   },
   "bulb": {
-    "en": "bulb",
-    "ru": "лампочка"
+    "en": "bulb"
   },
   "cinnamon": {
-    "en": "cinnamon",
-    "ru": "корица"
+    "en": "cinnamon"
   },
   "fan": {
-    "en": "fan",
-    "ru": "веер"
+    "en": "fan"
   },
   "grandPiano": {
-    "en": "grand piano",
-    "ru": "рояль"
+    "en": "grand piano"
   },
   "handbag": {
-    "en": "handbag",
-    "ru": "сумка"
+    "en": "handbag"
   },
   "miniCake": {
-    "en": "cake",
-    "ru": "пирожное"
+    "en": "cake"
   },
   "phone": {
-    "en": "phone",
-    "ru": "телефон"
+    "en": "phone"
   },
   "teddybear": {
-    "en": "teddybear",
-    "ru": "плюшевый мишка"
+    "en": "teddybear"
   },
   "bagels": {
-    "en": "bagels",
-    "ru": "бублики"
+    "en": "bagels"
   },
   "basket": {
-    "en": "basket",
-    "ru": "корзина"
+    "en": "basket"
   },
   "bowl": {
-    "en": "bowl",
-    "ru": "миска"
+    "en": "bowl"
   },
   "bread": {
-    "en": "bread",
-    "ru": "хлеб"
+    "en": "bread"
   },
   "broom": {
-    "en": "broom",
-    "ru": "метла"
+    "en": "broom"
   },
   "carrots": {
-    "en": "carrots",
-    "ru": "морковь"
+    "en": "carrots"
   },
   "croissant": {
-    "en": "croissant",
-    "ru": "круассан"
+    "en": "croissant"
   },
   "cup": {
-    "en": "cup",
-    "ru": "чашка"
+    "en": "cup"
   },
   "dove": {
-    "en": "dove",
-    "ru": "голубь"
+    "en": "dove"
   },
   "grapes": {
-    "en": "grapes",
-    "ru": "виноград"
+    "en": "grapes"
   },
   "horseshoe": {
-    "en": "horseshoe",
-    "ru": "подкова"
+    "en": "horseshoe"
   },
   "mortar": {
-    "en": "mortar",
-    "ru": "ступка"
+    "en": "mortar"
   },
   "mouse": {
-    "en": "mouse",
-    "ru": "мышь"
+    "en": "mouse"
   },
   "rollingpin": {
-    "en": "rolling pin",
-    "ru": "скалка"
+    "en": "rolling pin"
   },
   "tincan": {
-    "en": "tincan",
-    "ru": "консервная банка"
+    "en": "tincan"
   },
   "tulip": {
-    "en": "tulip",
-    "ru": "тюльпан"
+    "en": "tulip"
   },
   "bird": {
-    "en": "bird",
-    "ru": "птица"
+    "en": "bird"
   },
   "bonnet": {
-    "en": "bonnet",
-    "ru": "чепчик"
+    "en": "bonnet"
   },
   "booties": {
-    "en": "booties",
-    "ru": "пинетки"
+    "en": "booties"
   },
   "camera": {
-    "en": "camera",
-    "ru": "камера"
+    "en": "camera"
   },
   "cap": {
-    "en": "cap",
-    "ru": "кепка"
+    "en": "cap"
   },
   "comb": {
-    "en": "comb",
-    "ru": "расческа"
+    "en": "comb"
   },
   "drum1": {
-    "en": "drum",
-    "ru": "барабан"
+    "en": "drum"
   },
   "dumbbell": {
-    "en": "dumbbell",
-    "ru": "гантеля"
+    "en": "dumbbell"
   },
   "envelope": {
-    "en": "envelope",
-    "ru": "конверт"
+    "en": "envelope"
   },
   "hare": {
-    "en": "hare",
-    "ru": "заяц"
+    "en": "hare"
   },
   "headphones": {
-    "en": "headphones",
-    "ru": "наушники"
+    "en": "headphones"
   },
   "iron": {
-    "en": "iron",
-    "ru": "утюг"
+    "en": "iron"
   },
   "ladle": {
-    "en": "ladle",
-    "ru": "половник"
+    "en": "ladle"
   },
   "panda": {
-    "en": "panda",
-    "ru": "панда"
+    "en": "panda"
   },
   "paperplane": {
-    "en": "paperplane",
-    "ru": "самолетик"
+    "en": "paperplane"
   },
   "pretzels": {
-    "en": "pretzels",
-    "ru": "крендельки"
+    "en": "pretzels"
   },
   "remotecontrol": {
-    "en": "remote control",
-    "ru": "пульт"
+    "en": "remote control"
   },
   "shoeBrush": {
-    "en": "shoe brush",
-    "ru": "щётка"
+    "en": "shoe brush"
   },
   "tie": {
-    "en": "tie",
-    "ru": "галстук"
+    "en": "tie"
   },
   "turtle": {
-    "en": "turtle",
-    "ru": "черепаха"
+    "en": "turtle"
   },
   "dice": {
-    "en": "dice",
-    "ru": "игральные кости"
+    "en": "dice"
   },
   "tube": {
-    "en": "tube",
-    "ru": "тюбик"
+    "en": "tube"
   },
   "accordion": {
-    "en": "accordion",
-    "ru": "аккордеон"
+    "en": "accordion"
   },
   "acorn": {
-    "en": "acorn",
-    "ru": "жёлудь"
+    "en": "acorn"
   },
   "aquarium": {
-    "en": "aquarium",
-    "ru": "аквариум"
+    "en": "aquarium"
   },
   "backpack": {
-    "en": "backpack",
-    "ru": "рюкзак"
+    "en": "backpack"
   },
   "balalaika": {
-    "en": "balalaika",
-    "ru": "балалайка"
+    "en": "balalaika"
   },
   "blank": {
-    "en": "blank",
-    "ru": "заготовка"
+    "en": "blank"
   },
   "cards": {
-    "en": "cards",
-    "ru": "карты"
+    "en": "cards"
   },
   "deskFan": {
-    "en": "desk fan",
-    "ru": "вентилятор"
+    "en": "desk fan"
   },
   "drum": {
-    "en": "drum",
-    "ru": "барабан"
+    "en": "drum"
   },
   "giraffe": {
-    "en": "giraffe",
-    "ru": "жираф"
+    "en": "giraffe"
   },
   "harp": {
-    "en": "harp",
-    "ru": "арфа"
+    "en": "harp"
   },
   "helmet": {
-    "en": "helmet",
-    "ru": "шлем"
+    "en": "helmet"
   },
   "loudspeaker": {
-    "en": "loudspeaker",
-    "ru": "громкоговоритель"
+    "en": "loudspeaker"
   },
   "mask": {
-    "en": "mask",
-    "ru": "маска"
+    "en": "mask"
   },
   "notebook": {
-    "en": "notebook",
-    "ru": "блокнот"
+    "en": "notebook"
   },
   "origami": {
-    "en": "origami",
-    "ru": "оригами"
+    "en": "origami"
   },
   "piggy": {
-    "en": "piggy",
-    "ru": "свинка"
+    "en": "piggy"
   },
   "robot": {
-    "en": "robot",
-    "ru": "робот"
+    "en": "robot"
   },
   "shoes": {
-    "en": "shoes",
-    "ru": "обувь"
+    "en": "shoes"
   },
   "ukulele": {
-    "en": "ukulele",
-    "ru": "укулеле"
+    "en": "ukulele"
   },
   "belt": {
-    "en": "belt",
-    "ru": "ремень"
+    "en": "belt"
   },
   "book": {
-    "en": "book",
-    "ru": "книга"
+    "en": "book"
   },
   "bust": {
-    "en": "bust",
-    "ru": "бюст"
+    "en": "bust"
   },
   "gift": {
-    "en": "gift",
-    "ru": "подарок"
+    "en": "gift"
   },
   "jug": {
-    "en": "jug",
-    "ru": "кувшин"
+    "en": "jug"
   },
   "lavalamp": {
-    "en": "lavalamp",
-    "ru": "лава-лампа"
+    "en": "lavalamp"
   },
   "napkinholder": {
-    "en": "napkinholder",
-    "ru": "салфетница"
+    "en": "napkinholder"
   },
   "orange": {
-    "en": "orange",
-    "ru": "апельсин"
+    "en": "orange"
   },
   "pineapple": {
-    "en": "pineapple",
-    "ru": "ананас"
+    "en": "pineapple"
   },
   "pizza": {
-    "en": "pizza",
-    "ru": "пицца"
+    "en": "pizza"
   },
   "rabbit": {
-    "en": "rabbit",
-    "ru": "кролик"
+    "en": "rabbit"
   },
   "roses": {
-    "en": "roses",
-    "ru": "розы"
+    "en": "roses"
   },
   "towel": {
-    "en": "towel",
-    "ru": "полотенце"
+    "en": "towel"
   },
   "fire": {
-    "en": "fire",
-    "ru": "огонь"
+    "en": "fire"
   },
   "hairdryer": {
-    "en": "hair dryer",
-    "ru": "фен"
+    "en": "hair dryer"
   },
   "pouch": {
-    "en": "pouch",
-    "ru": "мешочек"
+    "en": "pouch"
   },
   "saltshaker": {
-    "en": "salt shaker",
-    "ru": "солонка"
+    "en": "salt shaker"
   },
   "skulls": {
-    "en": "skulls",
-    "ru": "черепа"
+    "en": "skulls"
   },
   "blackvase": {
-    "en": "black vase",
-    "ru": "черная ваза"
+    "en": "black vase"
   },
   "vacuumcleaner": {
-    "en": "vacuum",
-    "ru": "пылесос"
+    "en": "vacuum"
   },
   "fireplaceaccessories": {
-    "en": "poker",
-    "ru": "кочерга"
+    "en": "poker"
   },
   "totem": {
-    "en": "totem",
-    "ru": "тотем"
+    "en": "totem"
   },
   "violin": {
-    "en": "violin",
-    "ru": "скрипка"
+    "en": "violin"
   },
   "newspaper": {
-    "en": "newspaper",
-    "ru": "газета"
+    "en": "newspaper"
   },
   "oldphone": {
-    "en": "phone",
-    "ru": "телефон"
+    "en": "phone"
   },
   "smartphone": {
-    "en": "smartphone",
-    "ru": "смартфон"
+    "en": "smartphone"
   },
   "toad": {
-    "en": "toad",
-    "ru": "жаба"
+    "en": "toad"
   },
   "toaster": {
-    "en": "toaster",
-    "ru": "тостер"
+    "en": "toaster"
   },
   "tambourine": {
-    "en": "tambourine",
-    "ru": "бубен"
+    "en": "tambourine"
   },
   "clothes": {
-    "en": "clothes",
-    "ru": "одежда"
+    "en": "clothes"
   },
   "succulent": {
-    "en": "succulent",
-    "ru": "суккулент"
+    "en": "succulent"
   },
   "abc": {
-    "en": "abc",
-    "ru": "abc"
+    "en": "abc"
   },
   "cactus": {
-    "en": "cactus",
-    "ru": "кактус"
+    "en": "cactus"
   },
   "calendar": {
-    "en": "calendar",
-    "ru": "календарь"
+    "en": "calendar"
   },
   "cats": {
-    "en": "cats",
-    "ru": "котики"
+    "en": "cats"
   },
   "constructionstapler": {
-    "en": "stapler",
-    "ru": "степлер"
+    "en": "stapler"
   },
   "cookies": {
-    "en": "cookies",
-    "ru": "печенье"
+    "en": "cookies"
   },
   "correctionpen": {
-    "en": "correction",
-    "ru": "корректор"
+    "en": "correction"
   },
   "eraser": {
-    "en": "eraser",
-    "ru": "ластик"
+    "en": "eraser"
   },
   "filefolder": {
-    "en": "self-binder",
-    "ru": "скоросшиватель"
+    "en": "self-binder"
   },
   "folderforbusiness": {
-    "en": "folder",
-    "ru": "папка"
+    "en": "folder"
   },
   "glasswithpencils": {
-    "en": "pencil stand",
-    "ru": "карандаши"
+    "en": "pencil stand"
   },
   "marker": {
-    "en": "marker",
-    "ru": "маркер"
+    "en": "marker"
   },
   "paperholder": {
-    "en": "paper tray",
-    "ru": "лоток бумаг"
+    "en": "paper tray"
   },
   "photoframe": {
-    "en": "frame",
-    "ru": "фоторамка"
+    "en": "frame"
   },
   "pushpin": {
-    "en": "pushpin",
-    "ru": "кнопка"
+    "en": "pushpin"
   },
   "ruler": {
-    "en": "ruler",
-    "ru": "линейка"
+    "en": "ruler"
   },
   "smartwatch": {
-    "en": "smart watch",
-    "ru": "смартчасы"
+    "en": "smart watch"
   },
   "softtoy": {
-    "en": "soft toy",
-    "ru": "игрушка"
+    "en": "soft toy"
   },
   "speakers": {
-    "en": "speakers",
-    "ru": "колонки"
+    "en": "speakers"
   },
   "globe": {
-    "en": "globe",
-    "ru": "глобус"
+    "en": "globe"
   },
   "pandasticker": {
-    "en": "panda",
-    "ru": "стикер"
+    "en": "panda"
   },
   "charger": {
-    "en": "charger",
-    "ru": "зарядка"
+    "en": "charger"
   },
   "webcamera": {
-    "en": "web camera",
-    "ru": "веб-камера"
+    "en": "web camera"
   },
   "airplane": {
-    "en": "airplane",
-    "ru": "самолетик"
+    "en": "airplane"
   },
   "boat": {
-    "en": "boat",
-    "ru": "кораблик"
+    "en": "boat"
   },
   "castanets": {
-    "en": "castanets",
-    "ru": "кастаньеты"
+    "en": "castanets"
   },
   "drums": {
-    "en": "drums",
-    "ru": "барабаны"
+    "en": "drums"
   },
   "flute": {
-    "en": "flute",
-    "ru": "флейта"
+    "en": "flute"
   },
   "glucophone": {
-    "en": "glucophone",
-    "ru": "глюкофон"
+    "en": "glucophone"
   },
   "guitar": {
-    "en": "guitar",
-    "ru": "гитара"
+    "en": "guitar"
   },
   "harmonica": {
-    "en": "harmonica",
-    "ru": "губная гармошка"
+    "en": "harmonica"
   },
   "kazoo": {
-    "en": "kazoo",
-    "ru": "казу"
+    "en": "kazoo"
   },
   "lightbulb": {
-    "en": "light bulb",
-    "ru": "лампочка"
+    "en": "light bulb"
   },
   "lightbulbcandle": {
-    "en": "light bulb",
-    "ru": "лампочка"
+    "en": "light bulb"
   },
   "maracas": {
-    "en": "maracas",
-    "ru": "маракас"
+    "en": "maracas"
   },
   "notes": {
-    "en": "notes",
-    "ru": "ноты"
+    "en": "notes"
   },
   "ocarina": {
-    "en": "ocarina",
-    "ru": "окарина"
+    "en": "ocarina"
   },
   "speaker": {
-    "en": "speaker",
-    "ru": "динамик"
+    "en": "speaker"
   },
   "trebleclef": {
-    "en": "treble clef",
-    "ru": "скрипичный ключ"
+    "en": "treble clef"
   },
   "triangle": {
-    "en": "triangle",
-    "ru": "треугольник"
+    "en": "triangle"
   },
   "tuner": {
-    "en": "tuner",
-    "ru": "тюнер"
+    "en": "tuner"
   },
   "saxophone": {
-    "en": "saxophone",
-    "ru": "саксофон"
+    "en": "saxophone"
   },
   "keys": {
-    "en": "keys",
-    "ru": "ключи"
+    "en": "keys"
   },
   "microphones": {
-    "en": "microphones",
-    "ru": "микрофоны"
+    "en": "microphones"
   },
   "wire": {
-    "en": "wire",
-    "ru": "провод"
+    "en": "wire"
   },
   "clarinet": {
-    "en": "clarinet",
-    "ru": "кларнет"
+    "en": "clarinet"
   },
   "CD": {
-    "en": "CD",
-    "ru": "компакт-диск"
+    "en": "CD"
   },
   "album": {
-    "en": "album",
-    "ru": "альбом"
+    "en": "album"
   },
   "brooch": {
-    "en": "brooch",
-    "ru": "брошь"
+    "en": "brooch"
   },
   "tickets": {
-    "en": "tickets",
-    "ru": "билеты"
+    "en": "tickets"
   },
   "tin": {
-    "en": "tin",
-    "ru": "жестянка"
+    "en": "tin"
   },
   "bookstand": {
-    "en": "book stand",
-    "ru": "подпорка книг"
+    "en": "book stand"
   },
   "cottonswabs": {
-    "en": "cotton swabs",
-    "ru": "ватные палочки"
+    "en": "cotton swabs"
   },
   "papyrus": {
-    "en": "papyrus",
-    "ru": "папирус"
+    "en": "papyrus"
   },
   "pipe": {
-    "en": "pipe",
-    "ru": "труба"
+    "en": "pipe"
   },
   "toyhare": {
-    "en": "stuffed bunny",
-    "ru": "игрушка-заяц"
+    "en": "stuffed bunny"
   },
   "axe": {
-    "en": "axe",
-    "ru": "топор"
+    "en": "axe"
   },
   "bag": {
-    "en": "bag",
-    "ru": "сумка"
+    "en": "bag"
   },
   "bowTie": {
-    "en": "bow tie",
-    "ru": "галстук-бабочка"
+    "en": "bow tie"
   },
   "bucket": {
-    "en": "bucket",
-    "ru": "ведро"
+    "en": "bucket"
   },
   "catapult": {
-    "en": "catapult",
-    "ru": "катапульта"
+    "en": "catapult"
   },
   "chandelier": {
-    "en": "chandelier",
-    "ru": "люстра"
+    "en": "chandelier"
   },
   "cord": {
-    "en": "cord",
-    "ru": "канат"
+    "en": "cord"
   },
   "ducttape": {
-    "en": "duct tape",
-    "ru": "изолента"
+    "en": "duct tape"
   },
   "mug": {
-    "en": "mug",
-    "ru": "кружка"
+    "en": "mug"
   },
   "musicplayer": {
-    "en": "music player",
-    "ru": "магнитофон"
+    "en": "music player"
   },
   "pins": {
-    "en": "pins",
-    "ru": "булавки"
+    "en": "pins"
   },
   "puzzle": {
-    "en": "puzzle",
-    "ru": "пазл"
+    "en": "puzzle"
   },
   "saltshakerCat": {
-    "en": "shaker cat",
-    "ru": "солонка-кот"
+    "en": "shaker cat"
   },
   "starpillow": {
-    "en": "star-pillow",
-    "ru": "подушка-звезда"
+    "en": "star-pillow"
   },
   "stroller": {
-    "en": "stroller",
-    "ru": "коляска"
+    "en": "stroller"
   },
   "wateringcan": {
-    "en": "watering can",
-    "ru": "лейка"
+    "en": "watering can"
   },
   "brownglasses": {
-    "en": "brown glasses",
-    "ru": "очки коричневые"
+    "en": "brown glasses"
   },
   "dominoes": {
-    "en": "dominoes",
-    "ru": "домино"
+    "en": "dominoes"
   },
   "handkerchief": {
-    "en": "handkerchief",
-    "ru": "платок"
+    "en": "handkerchief"
   },
   "nutcracker": {
-    "en": "nutcracker",
-    "ru": "щелкунчик"
+    "en": "nutcracker"
   },
   "skittle": {
-    "en": "skittle",
-    "ru": "кегля"
+    "en": "skittle"
   },
   "sneakers": {
-    "en": "sneakers",
-    "ru": "кроссовки"
+    "en": "sneakers"
   },
   "tulips": {
-    "en": "tulips",
-    "ru": "тюльпаны"
+    "en": "tulips"
   },
   "hangers": {
-    "en": "hangers",
-    "ru": "плечики"
+    "en": "hangers"
   },
   "alarmclock": {
-    "en": "alarm clock",
-    "ru": "будильник"
+    "en": "alarm clock"
   },
   "batteries": {
-    "en": "batteries",
-    "ru": "батарейки"
+    "en": "batteries"
   },
   "binoculars": {
-    "en": "binoculars",
-    "ru": "бинокль"
+    "en": "binoculars"
   },
   "blackglasses": {
-    "en": "black glasses",
-    "ru": "очки черные"
+    "en": "black glasses"
   },
   "box": {
-    "en": "box",
-    "ru": "коробка"
+    "en": "box"
   },
   "chesspiece": {
-    "en": "chess piece",
-    "ru": "шахматная фигура"
+    "en": "chess piece"
   },
   "coins": {
-    "en": "coins",
-    "ru": "монеты"
+    "en": "coins"
   },
   "figurinechild": {
-    "en": "figurine child",
-    "ru": "статуэтка ребенка"
+    "en": "figurine child"
   },
   "jar": {
-    "en": "jar",
-    "ru": "баночка"
+    "en": "jar"
   },
   "mushroom": {
-    "en": "mushroom",
-    "ru": "гриб"
+    "en": "mushroom"
   },
   "pacifier": {
-    "en": "pacifier",
-    "ru": "соска"
+    "en": "pacifier"
   },
   "pieceofpaper": {
-    "en": "scrunched paper",
-    "ru": "бумажка"
+    "en": "scrunched paper"
   },
   "rainbowspring": {
-    "en": "slinky",
-    "ru": "слинки"
+    "en": "slinky"
   },
   "socks": {
-    "en": "socks",
-    "ru": "носки"
+    "en": "socks"
   },
   "toymouse": {
-    "en": "toy mouse",
-    "ru": "мышь-игрушка"
+    "en": "toy mouse"
   },
   "ventilator": {
-    "en": "desk fan",
-    "ru": "вентилятор"
+    "en": "desk fan"
   },
   "baseball": {
-    "en": "baseball",
-    "ru": "мяч"
+    "en": "baseball"
   },
   "catinabox": {
-    "en": "cat",
-    "ru": "кот"
+    "en": "cat"
   },
   "matryoshkadoll": {
-    "en": "matryoshka doll",
-    "ru": "матрешка"
+    "en": "matryoshka doll"
   },
   "nailpolish": {
-    "en": "varnish",
-    "ru": "лак"
+    "en": "varnish"
   },
   "paperclip": {
-    "en": "paperclip",
-    "ru": "скрепка"
+    "en": "paperclip"
   },
   "prayingmantis": {
-    "en": "mantis",
-    "ru": "богомол"
+    "en": "mantis"
   },
   "stapler": {
-    "en": "stapler",
-    "ru": "степлер"
+    "en": "stapler"
   },
   "laces": {
-    "en": "laces",
-    "ru": "шнурки"
+    "en": "laces"
   },
   "boxingglove": {
-    "en": "boxing glove",
-    "ru": "боксерская перчатка"
+    "en": "boxing glove"
   },
   "bracelet": {
-    "en": "bracelet",
-    "ru": "браслет"
+    "en": "bracelet"
   },
   "shuttlecock": {
-    "en": "shuttlecock",
-    "ru": "волан"
+    "en": "shuttlecock"
   },
   "flyingsaucer": {
-    "en": "UFO",
-    "ru": "НЛО"
+    "en": "UFO"
   },
   "sneaker": {
-    "en": "sneaker",
-    "ru": "кроссовок"
+    "en": "sneaker"
   },
   "earrings": {
-    "en": "earrings",
-    "ru": "серьги"
+    "en": "earrings"
   },
   "tapemeasure": {
-    "en": "tape-measure",
-    "ru": "рулетка"
+    "en": "tape-measure"
   },
   "soap": {
-    "en": "soap",
-    "ru": "мыло"
+    "en": "soap"
   },
   "vasewithflowers": {
-    "en": "flowers",
-    "ru": "цветы"
+    "en": "flowers"
   },
   "Rubikscube": {
-    "en": "Rubik's cube",
-    "ru": "кубик-рубик"
+    "en": "Rubik's cube"
   },
   "businesscards": {
-    "en": "business cards",
-    "ru": "визитки"
+    "en": "business cards"
   },
   "feather": {
-    "en": "feather",
-    "ru": "перо"
+    "en": "feather"
   },
   "figurine": {
-    "en": "figurine",
-    "ru": "статуэтка"
+    "en": "figurine"
   },
   "gears": {
-    "en": "gears",
-    "ru": "шестеренки"
+    "en": "gears"
   },
   "lipstick": {
-    "en": "lipstick",
-    "ru": "помада"
+    "en": "lipstick"
   },
   "powder": {
-    "en": "powder",
-    "ru": "пудра"
+    "en": "powder"
   },
   "toothbrush": {
-    "en": "toothbrush",
-    "ru": "зубная щетка"
+    "en": "toothbrush"
   },
   "girlfigurine": {
-    "en": "girl figurine",
-    "ru": "статуэтка девочки"
+    "en": "girl figurine"
   },
   "jam": {
-    "en": "jam",
-    "ru": "варенье"
+    "en": "jam"
   },
   "varnish": {
-    "en": "varnish",
-    "ru": "лак"
+    "en": "varnish"
   },
   "candy": {
-    "en": "candy",
-    "ru": "конфета"
+    "en": "candy"
   },
   "brush": {
-    "en": "brush",
-    "ru": "кисть"
+    "en": "brush"
   },
   "cocktail": {
-    "en": "cocktail",
-    "ru": "коктейль"
+    "en": "cocktail"
   },
   "cosmetics": {
-    "en": "cosmetics",
-    "ru": "косметика"
+    "en": "cosmetics"
   },
   "kerchief": {
-    "en": "kerchief",
-    "ru": "платок"
+    "en": "kerchief"
   },
   "mensshoes": {
-    "en": "men's shoes",
-    "ru": "туфли мужские"
+    "en": "men's shoes"
   },
   "rabbits": {
-    "en": "rabbits",
-    "ru": "кролики"
+    "en": "rabbits"
   },
   "boots": {
-    "en": "boots",
-    "ru": "ботинки"
+    "en": "boots"
   },
   "dreamcatcher": {
-    "en": "dreamcatcher",
-    "ru": "ловец снов"
+    "en": "dreamcatcher"
   },
   "travelbag": {
-    "en": "travel bag",
-    "ru": "дорожная сумка"
+    "en": "travel bag"
   },
   "calculator": {
-    "en": "calculator",
-    "ru": "калькулятор"
+    "en": "calculator"
   },
   "catfigurine": {
-    "en": "cat figurine",
-    "ru": "статуэтка кота"
+    "en": "cat figurine"
   },
   "childfigurine": {
-    "en": "child figurine",
-    "ru": "статуэтка ребенка"
+    "en": "child figurine"
   },
   "chips": {
-    "en": "chips",
-    "ru": "чипсы"
+    "en": "chips"
   },
   "coloredspring": {
-    "en": "slinky",
-    "ru": "слинки"
+    "en": "slinky"
   },
   "dumbbells": {
-    "en": "dumbbells",
-    "ru": "гантели"
+    "en": "dumbbells"
   },
   "earring": {
-    "en": "earring",
-    "ru": "серьга"
+    "en": "earring"
   },
   "electricaltape": {
-    "en": "electrical tape",
-    "ru": "изолента"
+    "en": "electrical tape"
   },
   "holepunch": {
-    "en": "hole punch",
-    "ru": "дырокол"
+    "en": "hole punch"
   },
   "magnifyingglass": {
-    "en": "magnifier",
-    "ru": "лупа"
+    "en": "magnifier"
   },
   "pencils": {
-    "en": "pencils",
-    "ru": "карандаши"
+    "en": "pencils"
   },
   "shoeshovel": {
-    "en": "shoe shovel",
-    "ru": "лопатка"
+    "en": "shoe shovel"
   },
   "suitcase": {
-    "en": "suitcase",
-    "ru": "чемодан"
+    "en": "suitcase"
   },
   "tweezers": {
-    "en": "tweezers",
-    "ru": "щипчики"
+    "en": "tweezers"
   },
   "bottleofwater": {
-    "en": "bottle of water",
-    "ru": "бутылка воды"
+    "en": "bottle of water"
   },
   "bowpillow": {
-    "en": "bow pillow",
-    "ru": "подушка-бант"
+    "en": "bow pillow"
   },
   "dollhouse": {
-    "en": "dollhouse",
-    "ru": "кукольный домик"
+    "en": "dollhouse"
   },
   "doormat": {
-    "en": "door mat",
-    "ru": "входной коврик"
+    "en": "door mat"
   },
   "easel": {
-    "en": "easel",
-    "ru": "мольберт"
+    "en": "easel"
   },
   "fabric": {
-    "en": "fabric",
-    "ru": "ткань"
+    "en": "fabric"
   },
   "nippers": {
-    "en": "nippers",
-    "ru": "кусачки"
+    "en": "nippers"
   },
   "seal": {
-    "en": "seal",
-    "ru": "печать"
+    "en": "seal"
   },
   "yellowribbon": {
-    "en": "yellow ribbon",
-    "ru": "желтая лента"
+    "en": "yellow ribbon"
   },
   "babybottle": {
-    "en": "baby bottle",
-    "ru": "бутылочка"
+    "en": "baby bottle"
   },
   "blackthreads": {
-    "en": "black threads",
-    "ru": "черные нитки"
+    "en": "black threads"
   },
   "boomerang": {
-    "en": "boomerang",
-    "ru": "бумеранг"
+    "en": "boomerang"
   },
   "compass": {
-    "en": "compass",
-    "ru": "компас"
+    "en": "compass"
   },
   "maps": {
-    "en": "maps",
-    "ru": "карты"
+    "en": "maps"
   },
   "olddiary": {
-    "en": "old diary",
-    "ru": "старый дневник"
+    "en": "old diary"
   },
   "rattle": {
-    "en": "rattle",
-    "ru": "погремушка"
+    "en": "rattle"
   },
   "apple": {
-    "en": "apple",
-    "ru": "яблоко"
+    "en": "apple"
   },
   "blackgrapes": {
-    "en": "black grapes",
-    "ru": "виноград черный"
+    "en": "black grapes"
   },
   "blender": {
-    "en": "blender",
-    "ru": "блендер"
+    "en": "blender"
   },
   "butterdish": {
-    "en": "butter dish",
-    "ru": "масленка"
+    "en": "butter dish"
   },
   "candles": {
-    "en": "candles",
-    "ru": "свечи"
+    "en": "candles"
   },
   "greengrapes": {
-    "en": "green grapes",
-    "ru": "виноград зеленый"
+    "en": "green grapes"
   },
   "liquidsoap": {
-    "en": "liquid soap",
-    "ru": "жидкое мыло"
+    "en": "liquid soap"
   },
   "papercups": {
-    "en": "paper cups",
-    "ru": "стаканчики"
+    "en": "paper cups"
   },
   "plate": {
-    "en": "plate",
-    "ru": "тарелка"
+    "en": "plate"
   },
   "tablelamp": {
-    "en": "lamp",
-    "ru": "лампа"
+    "en": "lamp"
   },
   "top": {
-    "en": "top",
-    "ru": "юла"
+    "en": "top"
   },
   "towels": {
-    "en": "towels",
-    "ru": "полотенца"
+    "en": "towels"
   },
   "train": {
-    "en": "train",
-    "ru": "поезд"
+    "en": "train"
   },
   "windowbrush": {
-    "en": "wiper",
-    "ru": "стеклоочиститель"
+    "en": "wiper"
   },
   "woodenspatula": {
-    "en": "spatula",
-    "ru": "лопатка"
+    "en": "spatula"
   },
   "coathanger": {
-    "en": "coat hanger",
-    "ru": "плечики"
+    "en": "coat hanger"
   },
   "scoop": {
-    "en": "scoop",
-    "ru": "совок"
+    "en": "scoop"
   },
   "computermouse": {
-    "en": "computer mouse",
-    "ru": "компьютерная мышь"
+    "en": "computer mouse"
   }
 }
