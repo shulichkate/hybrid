@@ -1,0 +1,1184 @@
+{
+  "skeleton": {
+    "hash": "WX3M8VbQlxM",
+    "spine": "4.1.24",
+    "y": -1080,
+    "width": 2560,
+    "height": 1080,
+    "images": "./images/",
+    "audio": "C:/MyGitProjects/ProjectsDra/HOPA Simple \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u043d\u0430\u044f \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u044c/levels/psd/"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "backgrounds",
+      "parent": "root"
+    },
+    {
+      "name": "decorItems",
+      "parent": "root"
+    },
+    {
+      "name": "hogItems",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "background_lv35",
+      "bone": "backgrounds"
+    },
+    {
+      "name": "hogItem1",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem2",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem3",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem4",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem5",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem6",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem7",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem8",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem9",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem10",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem11",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "hogItem12",
+      "bone": "hogItems",
+      "attachment": "hogItem_ps"
+    },
+    {
+      "name": "decorItem1",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem2",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem3",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem4",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    },
+    {
+      "name": "decorItem5",
+      "bone": "decorItems",
+      "attachment": "additional_item_ps"
+    }
+  ],
+  "skins": [
+    {
+      "name": "mode1/skin_mode1_v1",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_microphone",
+            "color": "e8d8cbff",
+            "x": 2356.5,
+            "y": -554.71,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 274,
+            "height": 121
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_kazoo",
+            "x": 2066.82,
+            "y": -349.8,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -19.19,
+            "width": 189,
+            "height": 107
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_marimba",
+            "color": "82776d91",
+            "x": 187.56,
+            "y": -925.52,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 484,
+            "height": 282
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_boat",
+            "x": 1677.8,
+            "y": -512.34,
+            "width": 235,
+            "height": 222,
+            "scaleX": 0.6967427277477791,
+            "scaleY": 0.6967427277477791
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_tambourine",
+            "color": "dad3c2ff",
+            "x": 1647.34,
+            "y": -710.01,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.6780831774356022,
+            "width": 244,
+            "height": 191
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_drums",
+            "color": "8b7b61ff",
+            "x": 904.81,
+            "y": -902.26,
+            "width": 333,
+            "height": 212,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_lightbulbcandle",
+            "color": "ec9627a2",
+            "x": 1046.3,
+            "y": -321.93,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 155
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_wire",
+            "color": "928e7fff",
+            "x": 1377.69,
+            "y": -860.36,
+            "width": 217,
+            "height": 187,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_triangle",
+            "color": "d1b8b8ff",
+            "x": 1295.97,
+            "y": -608.38,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 155,
+            "height": 135
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_hat",
+            "color": "d5ccbbff",
+            "x": 1215.38,
+            "y": -296.97,
+            "scaleX": 0.7286350656767562,
+            "scaleY": 0.7286350656767562,
+            "rotation": -30.27,
+            "width": 305,
+            "height": 166
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_clock",
+            "color": "75685aff",
+            "x": 1464.33,
+            "y": -232.35,
+            "scaleX": 0.6357864768683275,
+            "scaleY": 0.8,
+            "width": 180,
+            "height": 178
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_maracas",
+            "color": "888076c3",
+            "x": 579.1,
+            "y": -790.08,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 64.64,
+            "width": 103,
+            "height": 156
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_cup",
+            "color": "efe8df5c",
+            "x": 467.29,
+            "y": -373.35,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 120,
+            "height": 109
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_remotecontrol",
+            "color": "b0a17fff",
+            "x": 1142.77,
+            "y": -488.93,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 24.76,
+            "width": 165,
+            "height": 110
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_tuner",
+            "color": "b79999ff",
+            "x": 1962.65,
+            "y": -619.94,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 140,
+            "height": 124
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_guitar",
+            "color": "756d5acb",
+            "x": 850.05,
+            "y": -626.8,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -7.88,
+            "width": 155,
+            "height": 357
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_trebleclef",
+            "x": 1501.88,
+            "y": -64.93,
+            "scaleX": 0.7392330383480826,
+            "scaleY": 0.8,
+            "width": 64,
+            "height": 127
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v2",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_clarinet",
+            "x": 396.29,
+            "y": -813.32,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -132.92,
+            "width": 380,
+            "height": 318
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_flute",
+            "x": 1911.42,
+            "y": -433.78,
+            "rotation": -39.25,
+            "width": 268,
+            "height": 225,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_microphones",
+            "color": "c3c3c3ff",
+            "x": 832,
+            "y": -853.5,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 209,
+            "height": 125
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_speaker",
+            "color": "e0afafff",
+            "x": 1041.51,
+            "y": -164.23,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 117,
+            "height": 114
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_harmonica",
+            "color": "c3aeaeff",
+            "x": 1299.6,
+            "y": -628.81,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 13.15,
+            "width": 138,
+            "height": 84
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_napkins",
+            "color": "9a7e7eff",
+            "x": 1959.93,
+            "y": -616.94,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 199,
+            "height": 177
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_ocarina",
+            "color": "ada698ff",
+            "x": 1516.13,
+            "y": -526.41,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 165,
+            "height": 124
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_castanets",
+            "color": "e7ceceff",
+            "x": 1161.49,
+            "y": -876.57,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 166,
+            "height": 154
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_fan",
+            "color": "b7a48fff",
+            "x": 2246.65,
+            "y": -172.36,
+            "scaleX": 0.6930312919946247,
+            "scaleY": 0.8,
+            "width": 295,
+            "height": 207
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_lightbulb",
+            "color": "ebb14691",
+            "x": 1656.68,
+            "y": -318.26,
+            "scaleX": 0.8,
+            "scaleY": 0.7798479913137895,
+            "width": 71,
+            "height": 107
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_headphones",
+            "color": "ccbbbbff",
+            "x": 2329.36,
+            "y": -518.78,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -94.47,
+            "width": 191,
+            "height": 275
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_saxophone",
+            "color": "ffffffb8",
+            "x": 504.67,
+            "y": -389.71,
+            "scaleX": -1.1160481927710844,
+            "scaleY": 0.8,
+            "rotation": -55.83,
+            "width": 187,
+            "height": 253
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_airplane",
+            "color": "c7c4c4ff",
+            "x": 1002.94,
+            "y": -475.99,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 8.24,
+            "width": 181,
+            "height": 118
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_keys",
+            "x": 1679.17,
+            "y": -709.5,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 194,
+            "height": 137
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_mannequin",
+            "x": 1693.41,
+            "y": -506.89,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 199
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_notes",
+            "color": "d9b59796",
+            "x": 753.74,
+            "y": -358.05,
+            "scaleX": 0.7266570605187319,
+            "scaleY": 0.8,
+            "width": 128,
+            "height": 147
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_glucophone",
+            "color": "bcbabaff",
+            "x": 1392.34,
+            "y": -864.98,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 190,
+            "height": 198
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v3",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_microphone",
+            "color": "e8d8cbff",
+            "x": 2356.5,
+            "y": -554.71,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 274,
+            "height": 121
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_drums",
+            "color": "bca889ff",
+            "x": 904.81,
+            "y": -902.26,
+            "width": 333,
+            "height": 212,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_marimba",
+            "color": "82776dff",
+            "x": 199.5,
+            "y": -811.66,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 484,
+            "height": 282
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_clock",
+            "color": "75685aff",
+            "x": 1464.33,
+            "y": -232.35,
+            "scaleX": 0.6357864768683275,
+            "scaleY": 0.8,
+            "width": 180,
+            "height": 178
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_trebleclef",
+            "x": 1501.88,
+            "y": -64.93,
+            "scaleX": 0.7392330383480826,
+            "scaleY": 0.8,
+            "width": 64,
+            "height": 127
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_kazoo",
+            "x": 1864.32,
+            "y": -721.04,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -19.19,
+            "width": 189,
+            "height": 107
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_lightbulbcandle",
+            "color": "eca8279a",
+            "x": 1046.3,
+            "y": -321.93,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 91,
+            "height": 155
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_wire",
+            "color": "c2c0bcff",
+            "x": 1377.69,
+            "y": -860.36,
+            "scaleY": 0.68416,
+            "width": 217,
+            "height": 187,
+            "scaleX": 0.8
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_triangle",
+            "color": "d1b8b8ff",
+            "x": 1144.04,
+            "y": -916.03,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 155,
+            "height": 135
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_hat",
+            "color": "d5ccbbff",
+            "x": 1215.38,
+            "y": -296.97,
+            "scaleX": 0.7286350656767562,
+            "scaleY": 0.7286350656767562,
+            "rotation": -30.27,
+            "width": 305,
+            "height": 166
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_boat",
+            "x": 1677.8,
+            "y": -512.34,
+            "width": 235,
+            "height": 222,
+            "scaleX": 0.6967427277477791,
+            "scaleY": 0.6967427277477791
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_maracas",
+            "color": "ffddb26c",
+            "x": 409.48,
+            "y": -394.7,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 57.55,
+            "width": 103,
+            "height": 156
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_cup",
+            "color": "efe8df5c",
+            "x": 779.05,
+            "y": -372.15,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 120,
+            "height": 109
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_remotecontrol",
+            "color": "b0a17fff",
+            "x": 1998.37,
+            "y": -615.65,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -58.66,
+            "width": 165,
+            "height": 110
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_tuner",
+            "color": "ffe2e2ff",
+            "x": 1073.98,
+            "y": -467.75,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -18.53,
+            "width": 140,
+            "height": 124
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_guitar",
+            "color": "716557ac",
+            "x": 850.05,
+            "y": -626.8,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -7.88,
+            "width": 155,
+            "height": 357
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_tambourine",
+            "color": "bd9380ff",
+            "x": 1306.81,
+            "y": -611.14,
+            "scaleX": 0.47960857677363655,
+            "scaleY": 0.47960857677363655,
+            "width": 244,
+            "height": 191
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v4",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_napkins",
+            "color": "9a7e7eff",
+            "x": 1959.93,
+            "y": -616.94,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 199,
+            "height": 177
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_ocarina",
+            "color": "9c9788ff",
+            "x": 1516.13,
+            "y": -526.41,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 165,
+            "height": 124
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_castanets",
+            "color": "e7ceceff",
+            "x": 1161.49,
+            "y": -876.57,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 166,
+            "height": 154
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_lightbulb",
+            "color": "ebb14691",
+            "x": 1656.68,
+            "y": -318.26,
+            "scaleX": 0.8,
+            "scaleY": 0.7798479913137895,
+            "width": 71,
+            "height": 107
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_saxophone",
+            "color": "ffffffb8",
+            "x": 504.67,
+            "y": -389.71,
+            "scaleX": -1.1160481927710844,
+            "scaleY": 0.8,
+            "rotation": -55.83,
+            "width": 187,
+            "height": 253
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_clarinet",
+            "x": 396.29,
+            "y": -813.32,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -132.92,
+            "width": 380,
+            "height": 318
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_flute",
+            "x": 1911.42,
+            "y": -433.78,
+            "rotation": -39.25,
+            "width": 268,
+            "height": 225,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_microphones",
+            "color": "bcbcbcff",
+            "x": 832,
+            "y": -853.5,
+            "scaleX": 0.7999999999999999,
+            "scaleY": 0.7999999999999999,
+            "width": 209,
+            "height": 125
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_fan",
+            "color": "b7a48fff",
+            "x": 2200.91,
+            "y": -179.98,
+            "scaleX": 0.6930312919946247,
+            "scaleY": 0.8,
+            "width": 295,
+            "height": 207
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_speaker",
+            "color": "e0afafff",
+            "x": 1041.51,
+            "y": -164.23,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 117,
+            "height": 114
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_headphones",
+            "color": "ccbbbbff",
+            "x": 2329.36,
+            "y": -518.78,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -94.47,
+            "width": 191,
+            "height": 275
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_harmonica",
+            "color": "c3aeaeff",
+            "x": 1299.6,
+            "y": -628.81,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 13.15,
+            "width": 138,
+            "height": 84
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_airplane",
+            "color": "f1e7e7ff",
+            "x": 1002.94,
+            "y": -475.99,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 8.24,
+            "width": 181,
+            "height": 118
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_keys",
+            "x": 1875.87,
+            "y": -713.64,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 194,
+            "height": 137
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_mannequin",
+            "x": 1693.41,
+            "y": -506.89,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 99,
+            "height": 199
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_notes",
+            "color": "d9b59796",
+            "x": 753.74,
+            "y": -358.05,
+            "scaleX": 0.7266570605187319,
+            "scaleY": 0.8,
+            "width": 128,
+            "height": 147
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_glucophone",
+            "color": "beababff",
+            "x": 1392.34,
+            "y": -864.98,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 190,
+            "height": 198
+          }
+        }
+      }
+    },
+    {
+      "name": "mode1/skin_mode1_v5",
+      "attachments": {
+        "decorItem1": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_microphone",
+            "color": "9f7f66ff",
+            "x": 2333.81,
+            "y": -367.66,
+            "scaleX": 0.6116855444656274,
+            "scaleY": 0.6116855444656274,
+            "rotation": -21.35,
+            "width": 274,
+            "height": 121
+          }
+        },
+        "decorItem2": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_kazoo",
+            "x": 1881.64,
+            "y": -724.89,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -19.19,
+            "width": 189,
+            "height": 107
+          }
+        },
+        "decorItem3": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_marimba",
+            "color": "82776dff",
+            "x": 194.93,
+            "y": -791.13,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 484,
+            "height": 282
+          }
+        },
+        "decorItem4": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_wire",
+            "color": "c4bdbdff",
+            "x": 1377.69,
+            "y": -860.36,
+            "scaleY": 0.74936,
+            "width": 217,
+            "height": 187,
+            "scaleX": 0.8
+          }
+        },
+        "decorItem5": {
+          "additional_item_ps": {
+            "name": "obj-lvl-35/lvl_35_tambourine",
+            "color": "8d877bff",
+            "x": 833.85,
+            "y": -893.6,
+            "scaleX": 0.6631169952511152,
+            "scaleY": 0.6298460210102174,
+            "width": 244,
+            "height": 191
+          }
+        },
+        "hogItem1": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_drums",
+            "color": "857863ff",
+            "x": 386.89,
+            "y": -888.57,
+            "width": 333,
+            "height": 212,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+          }
+        },
+        "hogItem2": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_lightbulbcandle",
+            "color": "e9bb9aff",
+            "x": 738.11,
+            "y": -73.58,
+            "scaleX": 0.5657784481313893,
+            "scaleY": 0.5657784481313893,
+            "width": 91,
+            "height": 155
+          }
+        },
+        "hogItem3": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_boat",
+            "color": "f7e6e69a",
+            "x": 1457.66,
+            "y": -378.52,
+            "scaleX": -0.8326075596585961,
+            "scaleY": 0.8,
+            "rotation": 9.1,
+            "width": 235,
+            "height": 222
+          }
+        },
+        "hogItem4": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_triangle",
+            "color": "c6d1b8ff",
+            "x": 1631.5,
+            "y": -524.74,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 10.86,
+            "width": 155,
+            "height": 135
+          }
+        },
+        "hogItem5": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_hat",
+            "color": "d5ccbbff",
+            "x": 2064.84,
+            "y": -245.48,
+            "scaleX": 0.8,
+            "scaleY": 0.6113078241005141,
+            "rotation": 1.64,
+            "width": 305,
+            "height": 166
+          }
+        },
+        "hogItem6": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_clock",
+            "color": "75685aff",
+            "x": 1264.81,
+            "y": -122.34,
+            "scaleX": 0.6357864768683275,
+            "scaleY": 0.8,
+            "width": 180,
+            "height": 178
+          }
+        },
+        "hogItem7": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_maracas",
+            "color": "d6cbbeff",
+            "x": 1001.62,
+            "y": -490.7,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 58.17,
+            "width": 103,
+            "height": 156
+          }
+        },
+        "hogItem8": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_cup",
+            "color": "b4ab9fc4",
+            "x": 1167.07,
+            "y": -814.19,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 120,
+            "height": 109
+          }
+        },
+        "hogItem9": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_remotecontrol",
+            "color": "8d796ecf",
+            "x": 1295.63,
+            "y": -629.51,
+            "scaleX": 0.6725608568646544,
+            "scaleY": 0.6725608568646544,
+            "rotation": 18,
+            "width": 165,
+            "height": 110
+          }
+        },
+        "hogItem10": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_tuner",
+            "color": "dbb3b3ff",
+            "x": 1962.65,
+            "y": -619.94,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "width": 140,
+            "height": 124
+          }
+        },
+        "hogItem11": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_guitar",
+            "color": "ffe5c674",
+            "x": 496.95,
+            "y": -364.65,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": -95.49,
+            "width": 155,
+            "height": 357
+          }
+        },
+        "hogItem12": {
+          "hogItem_ps": {
+            "name": "obj-lvl-35/lvl_35_trebleclef",
+            "x": 1501.88,
+            "y": -64.93,
+            "scaleX": 0.7392330383480826,
+            "scaleY": 0.8,
+            "width": 64,
+            "height": 127
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {}
+  }
+}
